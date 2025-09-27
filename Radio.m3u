@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name=""tvg-id="Bayern 1 Oberbayern"tvg-logo=""group-title="Deutschland",Bayern 1 Oberbayern
-https://streams.br.de/bayern1obb_2.m3u
+https://mcdn.hf.br.de/br/hf/b1franken/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Bayern 2"tvg-logo=""group-title="Deutschland",Bayern 2
 https://streams.br.de/bayern2_2.m3u
 #EXTINF:-1 tvg-name=""tvg-id="BAYERN 3"tvg-logo=""group-title="Deutschland",BAYERN 3
