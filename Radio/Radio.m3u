@@ -1,40 +1,58 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="Bayern 1 Oberbayern"tvg-logo=""group-title="Deutschland",Bayern 1 Oberbayern
+https://streams.br.de/bayern1obb_2.m3u
+#EXTINF:-1 tvg-name=""tvg-id="Bayern 2"tvg-logo=""group-title="Deutschland",Bayern 2
+https://streams.br.de/bayern2_2.m3u
+#EXTINF:-1 tvg-name=""tvg-id="BAYERN 3"tvg-logo=""group-title="Deutschland",BAYERN 3
+https://streams.br.de/bayern3_2.m3u
+#EXTINF:-1 tvg-name=""tvg-id="BR24"tvg-logo=""group-title="Deutschland",BR24
+https://streams.br.de/br24_2.m3u
+#EXTINF:-1 tvg-name=""tvg-id="BR24live"tvg-logo=""group-title="Deutschland",BR24live
+https://streams.br.de/br24live_2.m3u
+#EXTINF:-1 tvg-name=""tvg-id="BR Heimat"tvg-logo=""group-title="Deutschland",BR Heimat
+https://streams.br.de/brheimat_2.m3u
+#EXTINF:-1 tvg-name=""tvg-id="BR-KLASSIK"tvg-logo=""group-title="Deutschland",BR-KLASSIK
+https://streams.br.de/br-klassik_3.m3u
+#EXTINF:-1 tvg-name=""tvg-id="BR PULS"tvg-logo=""group-title="Deutschland",BR PULS
+https://streams.br.de/puls_2.m3u
+#EXTINF:-1 tvg-name=""tvg-id="BR Schlager"tvg-logo=""group-title="Deutschland",BR Schlager
+https://streams.br.de/brschlager_2.m3u
 #EXTINF:-1 tvg-name=""tvg-id="MDR Jump Rockchannel"tvg-logo=""group-title="Deutschland",MDR Jump Rockchannel
 http://mdr-284321-1.cast.mdr.de/mdr/284321/1/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name=""tvg-id="MDR Jump Trendchannel"tvg-logo=""group-title="Deutschland",MDR Jump Trendchannel
-http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3
+https://d121.rndfnk.com/ard/mdr/284321/0/aac/128/stream.aac?aggregator=radio-de&sid=2AqIenngz6MFzdessm39E1L8JT1&token=i3JKDHLMetmcG43jP17961byD_WsNFvhEslKaBC5RGU&tvf=QIi00gVq-hZkMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Klassik"tvg-logo=""group-title="Deutschland",MDR Klassik
-http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/max/stream.mp3
+https://d121.rndfnk.com/ard/mdr/284350/0/aac/256/stream.aac?aggregator=radio-de&sid=2AqMgOub39wBTcK5H7XcQb29QI8&token=A5D1IhCXAPQwwO6TsYP2xj9mub4td5oNjYT7Va5SCTI&tvf=MzUeYNRr-hZkMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Kultur"tvg-logo=""group-title="Deutschland",MDR Kultur
-http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
+https://f131.rndfnk.com/ard/mdr/284310/0/aac/256/stream.aac?aggregator=radio-de&sid=2AqMKYSTKHBmRCfSqGd7crGk3Q1&token=OOui1opa8XAtniwdgV0A-ml4G0wwoD7iQXs3s0-gkiE&tvf=vWGGqqtr-hZmMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Kultur Webchannel"tvg-logo=""group-title="Deutschland",MDR Kultur Webchannel
-http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/max/stream.mp3
+https://f131.rndfnk.com/ard/mdr/284311/0/aac/256/stream.aac?aggregator=radio-de&sid=2AqLy98CQhW1RZxZc0hIr9ycCC2&token=2CxRAcgcZtTGMYB6Dv20T0j2cUHwaHFYRFGQg7TDAL8&tvf=uRYjPIJr-hZmMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen"tvg-logo=""group-title="Deutschland",MDR Sachsen
-http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
+https://f131.rndfnk.com/ard/mdr/284280/0/aac/128/stream.aac?aggregator=radio-de&sid=2AqONXP7X6N22JAf3EqPTNF4Xrc&token=5fzt8Z9_OGmLLcGMWWOn-oBrvp_el-S_brdRe2F6Bdg&tvf=9jgC7JZs-hZmMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen-anhalt"tvg-logo=""group-title="Deutschland",MDR Sachsen-anhalt
-http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
+https://f141.rndfnk.com/ard/mdr/284290/0/aac/128/stream.aac?aggregator=radio-de&sid=2AqNnrE3NPZZvQxcurJeXVYvkuj&token=c4az5zfx-fChQ6gkjMHmJMKUoH8N-0QgbDwoElr51xA&tvf=0yHwyFRs-hZmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen - Sorbisches Programm"tvg-logo=""group-title="Deutschland",MDR Sachsen - Sorbisches Programm
-http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
+https://f131.rndfnk.com/ard/mdr/990100/0/aac/128/stream.aac?aggregator=radio-de&sid=2AqjTq7z9Mr0QZp2MHUmJjNxn8O&token=WePol48kMfFb14pO0UqCmfGDLO-pkilKlYIdrfJjBF4&tvf=_daA0Q52-hZmMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Schlagerwelt"tvg-logo=""group-title="Deutschland",MDR Schlagerwelt
-http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3
+https://d131.rndfnk.com/ard/mdr/990801/0/aac/128/stream.aac?aggregator=radio-de&sid=2AqOzqL0ZvjPqjFsETJhgx30G2H&token=bmjRizGX_uptIu211cpDbP-aOwW_FVNh_TDW4gQegm4&tvf=bi-52d1s-hZkMTMxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sputnik"tvg-logo=""group-title="Deutschland",MDR Sputnik
-http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+https://d121.rndfnk.com/ard/mdr/284330/0/aac/128/stream.aac?aggregator=radio-de&sid=2Aqdp622zEruivcZceTE1wnL0tf&token=mpGE2MaqG9tpPpdr-aeOKbrm31x0v0V8MsL33QlBRmE&tvf=qWSWAoVz-hZkMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sputnik Club"tvg-logo=""group-title="Deutschland",MDR Sputnik Club
-http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
+https://d141.rndfnk.com/ard/mdr/284331/2/aac/128/stream.aac?aggregator=radio-de&sid=2Aqe8dgZYs1yZNZiacQmtrQGzsL&token=TafVwWc08cajhdOHri_7XhURiC1ZT52FczRCmY5VwXg&tvf=18mtaqlz-hZkMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sputnik Rock"tvg-logo=""group-title="Deutschland",MDR Sputnik Rock
-http://mdr-284331-1.cast.mdr.de/mdr/284331/1/mp3/high/stream.mp3
+https://f141.rndfnk.com/ard/mdr/284331/1/aac/128/stream.aac?aggregator=radio-de&sid=2AqeJRGV8hgNvL7PSvf2S86gMoD&token=GGfzus4WAR8UbG0CeU9sSWikuyNIlUs9HaiMHPin5z0&tvf=BxQgd71z-hZmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sputnik Black"tvg-logo=""group-title="Deutschland",MDR Sputnik Black
-http://mdr-284331-0.cast.mdr.de/mdr/284331/0/mp3/high/stream.mp3
+https://f141.rndfnk.com/ard/mdr/284331/0/aac/128/stream.aac?aggregator=radio-de&sid=2AqeVwUUnR1AYdL8BD0Nm8h0gAK&token=aq8C-LyRlv9HO_RimKC-HDWJDsPnev5pUPPVT7nH3_k&tvf=XFEfYtRz-hZmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sputnik Popkult"tvg-logo=""group-title="Deutschland",MDR Sputnik Popkult
-http://mdr-284331-4.cast.mdr.de/mdr/284331/4/mp3/high/stream.mp3
+https://f141.rndfnk.com/ard/mdr/284331/4/aac/128/stream.aac?aggregator=radio-de&sid=2AqehTsooggpwvGkZ0tubQHWTwX&token=WowjqkPmlZgt3AD8DVJGIHnDr7WupZeGnJLw75OvsC4&tvf=omBQ-Olz-hZmMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sputnik Roboton"tvg-logo=""group-title="Deutschland",MDR Sputnik Roboton
-http://mdr-284331-5.cast.mdr.de/mdr/284331/5/mp3/high/stream.mp3
+https://d141.rndfnk.com/ard/mdr/284331/5/aac/128/stream.aac?aggregator=radio-de&sid=2AqfAbGkewjAjWTzF2ON61ewWFQ&token=ZQ89mP-gk3-GyZNcqEbNPmHCfxcA446LFNL5ZBhNS0M&tvf=_FNU8h90-hZkMTQxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Sputnik Firstplay"tvg-logo=""group-title="Deutschland",MDR Sputnik Firstplay
-http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3
+https://f111.rndfnk.com/ard/mdr/284331/3/aac/128/stream.aac?aggregator=radio-de&sid=2AqfLnkytGNxkJCRaXeqKW0NGju&token=Oq89fUv8LFRVROGQEetTM8GIkWWYDjyhbPZ7zLmL4J8&tvf=4knClzR0-hZmMTExLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Thüringen"tvg-logo=""group-title="Deutschland",MDR Thüringen
-http://mdr-284300-2.cast.mdr.de/mdr/284300/2/mp3/high/stream.mp3
+https://d121.rndfnk.com/ard/mdr/284300/0/aac/128/stream.aac?aggregator=radio-de&sid=2AqfpCSMfazhyq1xIyLSCFatbRh&token=8XpRLHnkuH2UaB2w_c2JCc7e1hHxUKY_ts4a55k6pzY&tvf=ERLiPGt0-hZkMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="MDR Tweens"tvg-logo=""group-title="Deutschland",MDR Tweens
-http://mdr-991101-0.cast.mdr.de/mdr/991101/0/mp3/high/stream.mp3
+https://f121.rndfnk.com/ard/mdr/991101/0/aac/128/stream.aac?aggregator=radio-de&sid=2AqgXZW8gdYXp7zZ1k82zm8GzQk&token=3vHkQ93nW2YoDTquht8Nx9WwomGPVS7sT6Jq-mbRmj4&tvf=wUuiRr10-hZmMTIxLnJuZGZuay5jb20
 #EXTINF:-1 tvg-name=""tvg-id="N-JOY"tvg-logo=""group-title="Deutschland",N-JOY
 https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name=""tvg-id="NDR 1 Radio MV"tvg-logo=""group-title="Deutschland",NDR 1 Radio MV
